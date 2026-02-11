@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
+  color: #111111;
 }
 
 h1,
@@ -12,6 +13,7 @@ p {
 ul {
   text-decoration: none;
   padding: none;
+  list-style: none;
 }
 
 a {
