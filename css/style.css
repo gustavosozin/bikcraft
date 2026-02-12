@@ -6,5 +6,11 @@
 
 /* home */
 @import "./home/introducao.css";
+
 /* utilidades */
 @import "./utilidades/componentes.css";
+
+/* biciletas */
+@import "./bicicletas/bicicletas-lista.css";
+
+@import "./home/tecnologia.css";
