@@ -6,11 +6,11 @@
 
 /* home */
 @import "./home/introducao.css";
-
+@import "./home/parceiros.css";
+@import "./home/tecnologia.css";
+@import "./home/depoimento.css";
 /* utilidades */
 @import "./utilidades/componentes.css";
 
 /* biciletas */
 @import "./bicicletas/bicicletas-lista.css";
-
-@import "./home/tecnologia.css";
