@@ -19,6 +19,8 @@
 
 /* seguro */
 @import "./seguro/seguro.css";
+@import "./seguro/perguntas.css";
+@import "./seguro/vantagens.css";
 
 /* termos */
 @import "./termos.css/termos.css";
